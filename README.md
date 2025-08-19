@@ -1,1 +1,1 @@
-### Software Development student at Keyin Collage NL.
+### Junior Fullstack Software Developer 
