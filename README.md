@@ -33,8 +33,6 @@ I am eager to contribute my skills and enthusiasm to collaborative and challengi
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/noah-devine-403a86332/)
 
-- 📧 Email: noah_devine@hotmail.com
-
 ---
 
 Thanks for stopping by! Feel free to explore my repositories to see how my skills have developed!
