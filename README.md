@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Noah Devine — A Junior Front-End Developer
+# 👋 Hey, I'm Noah Devine — A Junior Software Developer
 
 I’m a recent graduate of the Software Development program at Keyin College, now focused on building sleek, scalable front-end experiences. Before diving into tech, I spent four and a half years at BMW St. John’s, where I sharpened my communication and teamwork skills — both of which now help me thrive in collaborative dev environments.
 
